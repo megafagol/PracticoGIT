@@ -1,19 +1,11 @@
 Hola Mundo
-
-Mi Mundo + Otros Mundos = Sistema Solar (?)
-
-PERRITO CAGANDO GIT
->>>>>>> 99520f2ed4f9b4d9ff12af9d39cb2598b16b04d3
+Mi Mundo
 hola que hace
 agregando una linea :')
 4 linealinea 6
 
 
 linea 1000
-se agregoooo esta lineaa desde github
-se hizo un fork y se agrego esta linea
-Algo
-agregando linea en a mediante un fork
+hhj
+vamos agregar esta linea
 
-agregar una nueva linea en un fork, esta bien?
-agregando linea en a mediante un fork
