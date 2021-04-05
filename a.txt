@@ -1,5 +1,5 @@
 Hola Mundo
-Mi Mundo
+Mi Mundo + Otros Mundos = Sistema Solar (?)
 hola que hace
 agregando una linea :')
 4 linealinea 6
@@ -8,3 +8,4 @@ agregando una linea :')
 linea 1000
 
 agregar una nueva linea en un fork, esta bien?
+agregando linea en a mediante un fork
